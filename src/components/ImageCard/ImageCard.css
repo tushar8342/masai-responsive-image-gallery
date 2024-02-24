@@ -1,0 +1,31 @@
+.image-card {
+  margin-top: 10px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.image-card:hover {
+  transform: translateY(-5px);
+}
+
+.image-card img {
+  width: 100%;
+  height: auto;
+}
+
+.image-info {
+  padding: 10px;
+}
+
+.image-info h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.image-info p {
+  margin: 5px 0 0;
+  font-size: 1rem;
+}
