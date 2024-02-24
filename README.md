@@ -1,6 +1,6 @@
 # React Responsive Image Gallery with Card Layout
 
-## Deploye[https://masai-responsive-image-gallery-35fktdpj0-tushar8342.vercel.app](#https://masai-responsive-image-gallery-35fktdpj0-tushar8342.vercel.app)
+## Deploye [https://masai-responsive-image-gallery-35fktdpj0-tushar8342.vercel.app] (https://masai-responsive-image-gallery-35fktdpj0-tushar8342.vercel.app)
 
 
 ## Overview
